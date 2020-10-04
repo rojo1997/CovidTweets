@@ -1,7 +1,12 @@
 numpy
 sklearn
 setuptools
+wheel
 dill
 flask
 flask_restful
 dill
+requests
+matplotlib
+seaborn
+nltk

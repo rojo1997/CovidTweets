@@ -1,3 +1,4 @@
+# python3 setup.py sdist bdist_wheel
 from setuptools import setup
 
 setup(

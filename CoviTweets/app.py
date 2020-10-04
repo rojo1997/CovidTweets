@@ -10,7 +10,7 @@ from CovidTweets.api import OnDemand
 app = Flask(__name__)
 api = Api(app)
 
-estimator = load(file = open('model', mode = 'rb'))
+estimator = load(file = open('../models/model.plk', mode = 'rb'))
 
 api.add_resource(
     OnDemand, 
