@@ -1,0 +1,7 @@
+numpy
+sklearn
+setuptools
+dill
+flask
+flask_restful
+dill
